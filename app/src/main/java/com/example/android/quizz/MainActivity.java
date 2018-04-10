@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     int score =0;
+
     int rightAnswers =0;
     int wrongAnswers =0;
     int clickcount=0;
